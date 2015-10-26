@@ -1,6 +1,7 @@
 # perspective-transform
 
-* This is a hacked apart version to be used in Adobe Illustrator's scripting engine *
+*This is a hacked apart version to be used in Adobe Illustrator's scripting engine*
+
 Adobe Illustrator's ECMA compatability is far from the best, so the vanilla script didn't work.
 I pulled out some of the nicer elements making the PerspT object global, etc etc.
 
